@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #000080, #2C003E);
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url(bg.jpg);
+    padding: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#mission-details {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #4B0082;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #FF69B4;
+}
+
+p {
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #002366;
+    color: #FFD700;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

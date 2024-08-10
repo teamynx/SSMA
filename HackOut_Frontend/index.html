@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSMA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">SSMA</div>
+        <div class="logo">Securing Space Mission Anomalies</div>
+    </header>
+
+    <section id="search">
+        <div class="search-container">
+            <select id="search-criteria">
+                <option value="name">Mission Name</option>
+                <option value="date">Date</option>
+                <option value="failureCause">Failure Cause</option>
+            </select>
+            <input type="text" placeholder="Enter keywords..." id="search-bar">
+            <button onclick="searchMissions()">Search</button>
+        </div>
+    </section>
+
+        <div id="overview">
+            <h2>Website Overview</h2>
+            <p>Welcome to the Space Mission Failure Database, where you can explore past mission failures, learn from the mistakes, and contribute to future successes.</p>
+        </div>
+
+        <div id="do-you-know">
+            <h2>Did You Know?</h2>
+            <p id="fact"></p>
+        </div>
+<br><br>
+    <footer>
+        <p>&copy; 2024 SSMA. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
