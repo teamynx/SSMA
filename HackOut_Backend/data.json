@@ -1,0 +1,903 @@
+[
+    {
+        "id": 1,
+        "name": "Aryabhata",
+        "date": "1975-04-19",
+        "status": "FAILURE",
+        "failure_cause": "Power failure due to a battery issue",
+        "precautions": "Ensure rigorous testing of power systems and batteries before launch."
+    },
+    {
+        "id": 2,
+        "name": "Bhaskara-I",
+        "date": "1979-06-07",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 3,
+        "name": "Rohini Technology Payload (RTP)",
+        "date": "1980-08-10",
+        "status": "FAILURE",
+        "failure_cause": "Launch vehicle failure",
+        "precautions": "Improve the reliability of launch vehicles with more pre-flight tests and validations."
+    },
+    {
+        "id": 4,
+        "name": "Rohini Satellite RS-1",
+        "date": "1981-07-18",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 5,
+        "name": "Rohini Satellite RS-D1",
+        "date": "1981-05-31",
+        "status": "FAILURE",
+        "failure_cause": "Launch vehicle malfunction during flight",
+        "precautions": "Reinforce launch vehicle engineering to prevent mid-flight malfunctions."
+    },
+    {
+        "id": 6,
+        "name": "APPLE",
+        "date": "1981-06-19",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 7,
+        "name": "Bhaskara-II",
+        "date": "1981-11-20",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 8,
+        "name": "INSAT-1A",
+        "date": "1982-04-10",
+        "status": "FAILURE",
+        "failure_cause": "Control system failure due to heat issues",
+        "precautions": "Design better thermal control systems and conduct extensive thermal tests before launch."
+    },
+    {
+        "id": 9,
+        "name": "Rohini Satellite RS-D2",
+        "date": "1983-04-17",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 10,
+        "name": "INSAT-1B",
+        "date": "1983-08-30",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 11,
+        "name": "SROSS-1",
+        "date": "1987-03-24",
+        "status": "FAILURE",
+        "failure_cause": "Launch vehicle failure",
+        "precautions": "Enhance the reliability of the launch vehicle through more rigorous testing and design improvements."
+    },
+    {
+        "id": 12,
+        "name": "IRS-1A",
+        "date": "1988-03-17",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 13,
+        "name": "SROSS-2",
+        "date": "1988-07-13",
+        "status": "FAILURE",
+        "failure_cause": "Payload fairing failed to separate",
+        "precautions": "Improve the design and testing of payload fairing separation mechanisms."
+    },
+    {
+        "id": 14,
+        "name": "INSAT-1C",
+        "date": "1988-07-21",
+        "status": "FAILURE",
+        "failure_cause": "Power system failure due to a short circuit",
+        "precautions": "Implement stricter quality control for electrical systems and conduct more thorough pre-launch inspections."
+    },
+    {
+        "id": 15,
+        "name": "INSAT-1D",
+        "date": "1990-06-12",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 16,
+        "name": "IRS-1B",
+        "date": "1991-08-29",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 17,
+        "name": "SROSS-C",
+        "date": "1992-05-20",
+        "status": "FAILURE",
+        "failure_cause": "Launch vehicle failure during flight",
+        "precautions": "Enhance the robustness of launch vehicles with improved flight control systems."
+    },
+    {
+        "id": 18,
+        "name": "INSAT-2A",
+        "date": "1992-07-10",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 19,
+        "name": "INSAT-2B",
+        "date": "1993-07-23",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 20,
+        "name": "IRS-1E",
+        "date": "1993-09-20",
+        "status": "FAILURE",
+        "failure_cause": "Launch vehicle failure",
+        "precautions": "Incorporate more reliable propulsion systems and perform exhaustive flight simulations."
+    },
+    {
+        "id": 21,
+        "name": "SROSS-C2",
+        "date": "1994-05-04",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 22,
+        "name": "IRS-P2",
+        "date": "1994-10-15",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 23,
+        "name": "INSAT-2C",
+        "date": "1995-12-07",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 24,
+        "name": "IRS-1C",
+        "date": "1995-12-28",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 25,
+        "name": "IRS-P3",
+        "date": "1996-03-21",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 26,
+        "name": "INSAT-2D",
+        "date": "1997-06-04",
+        "status": "FAILURE",
+        "failure_cause": "Control system failure in orbit",
+        "precautions": "Conduct more robust testing of control systems and consider redundancy for critical components."
+    },
+    {
+        "id": 27,
+        "name": "IRS-1D",
+        "date": "1997-09-29",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 28,
+        "name": "INSAT-2E",
+        "date": "1999-04-03",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 29,
+        "name": "Oceansat (IRS-P4)",
+        "date": "1999-05-26",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 30,
+        "name": "INSAT-3B",
+        "date": "2000-03-22",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 31,
+        "name": "GSAT-1",
+        "date": "2001-04-18",
+        "status": "FAILURE",
+        "failure_cause": "Launch vehicle underperformance",
+        "precautions": "Conduct thorough testing of the launch vehicle's propulsion system and improve fuel management strategies."
+    },
+    {
+        "id": 32,
+        "name": "The Technology Experiment Satellite (TES)",
+        "date": "2001-10-22",
+        "status": "SUCCESS",
+        "failure_cause": null,
+        "precautions": null
+    },
+    {
+        "id": 33,
+        "name": "INSAT-3C",
+        "date": "2002-01-24",
+        "status": "SUCCESS",
+        "failure_cause":null,
+        "precautions":null
+        },
+            {
+                "id": 34,
+                "name": "Kalpana-1 (METSAT)",
+                "date": "2002-09-12",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 35,
+                "name": "INSAT-3A",
+                "date": "2003-04-09",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 36,
+                "name": "GSAT-2",
+                "date": "2003-05-08",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 37,
+                "name": "INSAT-3E",
+                "date": "2003-09-28",
+                "status": "FAILURE",
+                "failure_cause": "Premature end of life due to power failure",
+                "precautions": "Enhance power system reliability and implement better monitoring mechanisms."
+            },
+            {
+                "id": 38,
+                "name": "EDUSAT (GSAT-3)",
+                "date": "2004-09-20",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 39,
+                "name": "HAMSAT (Micro Satellite)",
+                "date": "2005-05-05",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 40,
+                "name": "INSAT-4A",
+                "date": "2005-12-22",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 41,
+                "name": "INSAT-4C",
+                "date": "2006-07-10",
+                "status": "FAILURE",
+                "failure_cause": "Launch vehicle failure",
+                "precautions": "Improve launch vehicle quality assurance and conduct more rigorous pre-flight checks."
+            },
+            {
+                "id": 42,
+                "name": "INSAT-4B",
+                "date": "2007-03-12",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 43,
+                "name": "INSAT-4CR",
+                "date": "2007-09-02",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 44,
+                "name": "Cartosat-2A",
+                "date": "2008-04-28",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 45,
+                "name": "IMS-1",
+                "date": "2008-04-28",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 46,
+                "name": "Chandrayaan-1",
+                "date": "2008-10-22",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 47,
+                "name": "Oceansat-2",
+                "date": "2009-09-23",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 48,
+                "name": "GSAT-4",
+                "date": "2010-04-15",
+                "status": "FAILURE",
+                "failure_cause": "Launch vehicle failure",
+                "precautions": "Increase testing of critical launch vehicle components and review design processes."
+            },
+            {
+                "id": 49,
+                "name": "CARTOSAT-2B",
+                "date": "2010-07-12",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 50,
+                "name": "GSAT-5P",
+                "date": "2010-12-25",
+                "status": "FAILURE",
+                "failure_cause": "Launch vehicle failure",
+                "precautions": "Enhance launch vehicle reliability with more rigorous testing and quality control."
+            },
+            {
+                "id": 51,
+                "name": "GSAT-8",
+                "date": "2011-05-21",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 52,
+                "name": "GSAT-12",
+                "date": "2011-07-15",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 53,
+                "name": "GSAT-10",
+                "date": "2012-09-29",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 54,
+                "name": "RISAT-1",
+                "date": "2012-04-26",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 55,
+                "name": "INSAT-3D",
+                "date": "2013-07-26",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 56,
+                "name": "GSAT-7",
+                "date": "2013-08-30",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 57,
+                "name": "Mangalyaan (Mars Orbiter Mission)",
+                "date": "2013-11-05",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 58,
+                "name": "GSAT-14",
+                "date": "2014-01-05",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 59,
+                "name": "IRNSS-1B",
+                "date": "2014-04-04",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 60,
+                "name": "IRNSS-1C",
+                "date": "2014-10-16",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 61,
+                "name": "GSAT-16",
+                "date": "2014-12-07",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 62,
+                "name": "GSAT-6",
+                "date": "2015-08-27",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 63,
+                "name": "GSAT-15",
+                "date": "2015-11-10",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 64,
+                "name": "IRNSS-1E",
+                "date": "2016-01-20",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 65,
+                "name": "IRNSS-1F",
+                "date": "2016-03-10",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 66,
+                "name": "IRNSS-1G",
+                "date": "2016-04-28",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 67,
+                "name": "GSAT-18",
+                "date": "2016-10-05",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 68,
+                "name": "GSAT-19",
+                "date": "2017-06-05",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 69,
+                "name": "IRNSS-1H",
+                "date": "2017-08-31",
+                "status": "FAILURE",
+                "failure_cause": "Heat shield failed to separate",
+                "precautions": "Redesign the heat shield mechanism for better reliability and conduct comprehensive separation tests."
+            },
+            {
+                "id": 70,
+                "name": "GSAT-6A",
+                "date": "2018-03-29",
+                "status": "FAILURE",
+                "failure_cause": "Communication failure post-launch",
+                "precautions": "Implement more reliable communication systems and consider redundancy for critical communication components."
+            },
+            {
+                "id": 71,
+                "name": "GSAT-29",
+                "date": "2018-11-14",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 72,
+                "name": "GSAT-11",
+                "date": "2018-12-05",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 73,
+                "name": "GSAT-7A",
+                "date": "2018-12-19",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 74,
+                "name": "Microsat-R",
+                "date": "2019-01-24",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 75,
+                "name": "EMISAT",
+                "date": "2019-04-01",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 76,
+                "name": "RISAT-2B",
+                "date": "2019-05-22",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 77,
+                "name": "Chandrayaan-2",
+                "date": "2019-07-22",
+                "status": "PARTIAL SUCCESS",
+                "failure_cause": "Lander lost communication during descent",
+                "precautions": "Improve landing algorithms and conduct more rigorous descent simulations."
+            },
+            {
+                "id": 78,
+                "name": "RISAT-2BR1",
+                "date": "2019-12-11",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 79,
+                "name": "GSAT-30",
+                "date": "2020-01-17",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 80,
+                "name": "EOS-01",
+                "date": "2020-11-07",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 81,
+                "name": "CMS-01",
+                "date": "2020-12-17",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 82,
+                "name": "Amazonia-1",
+                "date": "2021-02-28",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 83,
+                "name": "GISAT-1",
+                "date": "2021-03-28",
+                "status": "FAILURE",
+                "failure_cause": "Launch vehicle failure",
+                "precautions": "Enhance quality control in launch vehicle assembly and testing processes."
+            },
+            {
+                "id": 84,
+                "name": "EOS-04",
+                "date": "2022-02-14",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 85,
+                "name": "GSAT-24",
+                "date": "2022-06-22",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 86,
+                "name": "EOS-06",
+                "date": "2022-11-26",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 87,
+                "name": "Chandrayaan-3",
+                "date": "2023-07-14",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            }
+        ,
+            {
+                "id": 88,
+                "name": "Aditya-L1",
+                "date": "2023-09-02",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 89,
+                "name": "Gaganyaan-1",
+                "date": "2023-10-21",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 90,
+                "name": "SSLV-D2",
+                "date": "2023-12-20",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            }
+        ,
+            {
+                "id": 91,
+                "name": "PSLV-C57/Aditya-L1",
+                "date": "2023-11-03",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 92,
+                "name": "PSLV-C56",
+                "date": "2023-12-01",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 93,
+                "name": "Gaganyaan-2",
+                "date": "2024-01-05",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 94,
+                "name": "SSLV-D3",
+                "date": "2024-02-10",
+                "status": "FAILURE",
+                "failure_cause": "Communication failure",
+                "precautions": "Enhance communication systems"
+            },
+            {
+                "id": 95,
+                "name": "PSLV-C58",
+                "date": "2024-03-15",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 96,
+                "name": "Gaganyaan-3",
+                "date": "2024-04-20",
+                "status": "FAILURE",
+                "failure_cause": "Engine failure",
+                "precautions": "Improve engine quality control"
+            }
+        ,
+            {
+                "id": 97,
+                "name": "PSLV-C59",
+                "date": "2024-05-25",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 98,
+                "name": "SSLV-D4",
+                "date": "2024-06-30",
+                "status": "FAILURE",
+                "failure_cause": "Structural failure",
+                "precautions": "Reinforce structural components"
+            },
+            {
+                "id": 99,
+                "name": "PSLV-C60",
+                "date": "2024-07-05",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 100,
+                "name": "Gaganyaan-4",
+                "date": "2024-08-10",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 101,
+                "name": "SSLV-D5",
+                "date": "2024-09-15",
+                "status": "FAILURE",
+                "failure_cause": "Guidance system error",
+                "precautions": "Upgrade guidance system"
+            },
+            {
+                "id": 102,
+                "name": "PSLV-C61",
+                "date": "2024-10-20",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            }
+        ,
+            {
+                "id": 103,
+                "name": "Gaganyaan-5",
+                "date": "2024-11-15",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 104,
+                "name": "SSLV-D6",
+                "date": "2024-12-10",
+                "status": "FAILURE",
+                "failure_cause": "Fuel leak",
+                "precautions": "Redesign fuel tank"
+            },
+            {
+                "id": 105,
+                "name": "PSLV-C62",
+                "date": "2025-01-22",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 106,
+                "name": "GSLV Mk III-M2",
+                "date": "2025-02-18",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 107,
+                "name": "SSLV-D7",
+                "date": "2025-03-25",
+                "status": "FAILURE",
+                "failure_cause": "Engine malfunction",
+                "precautions": "Improve engine reliability"
+            },
+            {
+                "id": 108,
+                "name": "PSLV-C63",
+                "date": "2025-04-14",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 109,
+                "name": "Gaganyaan-6",
+                "date": "2025-05-30",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            },
+            {
+                "id": 110,
+                "name": "SSLV-D8",
+                "date": "2025-06-20",
+                "status": "FAILURE",
+                "failure_cause": "Communication failure",
+                "precautions": "Upgrade communication systems"
+            },
+            {
+                "id": 111,
+                "name": "PSLV-C64",
+                "date": "2025-07-25",
+                "status": "SUCCESS",
+                "failure_cause": null,
+                "precautions": null
+            }
+        ,
+        {
+            "id": 112,
+            "name": "EOS-03",
+            "date": "2021-08-12",
+            "status": "FAILURE",
+            "failure_cause": "Cryogenic stage anomaly",
+            "precautions": "Conduct more detailed checks on the cryogenic stage systems and improve thermal insulation techniques."
+        }
+    ]
